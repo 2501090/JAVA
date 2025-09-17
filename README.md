@@ -1,1 +1,1 @@
-JAVA_M
+JAVA_B반
