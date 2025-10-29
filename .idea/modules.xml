@@ -2,6 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/midterm_exam/Exam01/01/01.iml" filepath="$PROJECT_DIR$/midterm_exam/Exam01/01/01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/midterm_exam/Exam01/02/02.iml" filepath="$PROJECT_DIR$/midterm_exam/Exam01/02/02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/midterm_exam/Exam01/03/03.iml" filepath="$PROJECT_DIR$/midterm_exam/Exam01/03/03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/midterm_exam/Exam01/04/04.iml" filepath="$PROJECT_DIR$/midterm_exam/Exam01/04/04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/midterm_exam/Exam01/05/05.iml" filepath="$PROJECT_DIR$/midterm_exam/Exam01/05/05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/midterm_exam/Exam01/Exam01.iml" filepath="$PROJECT_DIR$/midterm_exam/Exam01/Exam01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/midterm_exam/Exam02/Exam02.iml" filepath="$PROJECT_DIR$/midterm_exam/Exam02/Exam02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/midterm_exam/Exam03/Exam03.iml" filepath="$PROJECT_DIR$/midterm_exam/Exam03/Exam03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/midterm_exam/Exam04/Exam04.iml" filepath="$PROJECT_DIR$/midterm_exam/Exam04/Exam04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/midterm_exam/Exam05/Exam05.iml" filepath="$PROJECT_DIR$/midterm_exam/Exam05/Exam05.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVA.iml" filepath="$PROJECT_DIR$/.idea/JAVA.iml" />
       <module fileurl="file://$PROJECT_DIR$/week03/Report0-3/Report0-3.iml" filepath="$PROJECT_DIR$/week03/Report0-3/Report0-3.iml" />
       <module fileurl="file://$PROJECT_DIR$/week03/Report01/Report01.iml" filepath="$PROJECT_DIR$/week03/Report01/Report01.iml" />
@@ -76,6 +86,7 @@
       <module fileurl="file://$PROJECT_DIR$/week07/Sample7-7/Sample7-7.iml" filepath="$PROJECT_DIR$/week07/Sample7-7/Sample7-7.iml" />
       <module fileurl="file://$PROJECT_DIR$/week07/Sample7-8/Sample7-8.iml" filepath="$PROJECT_DIR$/week07/Sample7-8/Sample7-8.iml" />
       <module fileurl="file://$PROJECT_DIR$/week07/Sample7-9/Sample7-9.iml" filepath="$PROJECT_DIR$/week07/Sample7-9/Sample7-9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/midterm_exam/midterm_exam.iml" filepath="$PROJECT_DIR$/midterm_exam/midterm_exam.iml" />
       <module fileurl="file://$PROJECT_DIR$/week02/week02.iml" filepath="$PROJECT_DIR$/week02/week02.iml" />
       <module fileurl="file://$PROJECT_DIR$/week03/week03.iml" filepath="$PROJECT_DIR$/week03/week03.iml" />
       <module fileurl="file://$PROJECT_DIR$/week04/week04.iml" filepath="$PROJECT_DIR$/week04/week04.iml" />
