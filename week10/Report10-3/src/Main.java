@@ -8,7 +8,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         int mid, fin, quiz, report, attend;
-
+    
         System.out.print("중간 : ");
         mid = scanner.nextInt();
         System.out.print("기말 : ");
