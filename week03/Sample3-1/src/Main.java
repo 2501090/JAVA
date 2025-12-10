@@ -3,6 +3,7 @@
 public class Main {
     public static void main(String[] args) {
 
+        /*
         // int, float이 메모리에
         int a = 0; // 선언문, a를 변수
         float b = 0.0f;
@@ -29,5 +30,6 @@ public class Main {
         f + 5 = f; // 수식이 왼쪽에 올 수 없다.
         5 = f; // 항상 왼쪽에는 변수만 올 수 있다.
         a = a + 5; // 오른쪽은 a의 값을 의미, 변수는 기억장소가 있고 상수는 l밸류가 없다.
+        */
     }
 }
